@@ -1,0 +1,43 @@
+
+# ignore all the .pkl files in the data folder
+Data/DataFiles/MidSIR/*.pkl
+Data/DataFiles/HighSIR/*.pkl
+Data/DataFiles/NoneSIR/*.pkl
+Data/DataFiles/
+# *.pkl
+# *.png
+# *.jpg
+# *.eps
+# ignore the .pkl in adapted models
+# OfflinePretrain/PretrainedModels_NoneSIR/
+# OfflinePretrain/PretrainedModels_MidSIR/
+# OfflinePretrain/PretrainedModels_HighSIR/
+# OnlineAdapt/Dittos/AdaptedModels/
+# OnlineAdapt/FedAvgFT/AdaptedModels/
+# OnlineAdapt/FedAvgs/AdaptedModels/
+# OnlineAdapt/FedGraphs/AdaptedModels/
+# OnlineAdapt/FedGraphs/AdaptedModelsNorm/
+# OnlineAdapt/FedReps/AdaptedModels/
+# OnlineAdapt/LocalOnly/AdaptedModels/
+# PretrainedModels_NoneSIR/
+# PretrainedModels_MidSIR/
+# PretrainedModels_HighSIR/
+z_figs/
+z_tutorials/
+z_debug/
+wandb/
+Logs_HPC/
+Outputs/
+PreviousRuns/
+Evaluation/OnlineEvalResults/Test_Overfitting_Epoch10/
+Evaluation/OnlineEvalResults/Test_Overfitting_Epoch20/
+Evaluation/OnlineEvalResults/Test_Overfitting_Epoch30/
+Evaluation/OnlineEvalResults/Test_Overfitting_Epoch40/
+Evaluation/OnlineEvalResults/Test_Overfitting_Epoch50/
+# ignore images and others
+Tutorials/
+profiler_logs/
+_pycache_/
+*.ipynb
+*.pyc
+

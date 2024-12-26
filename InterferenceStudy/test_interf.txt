@@ -1,0 +1,11 @@
+2
+2
+Minimum BS-UT distance:  10.0
+Inter-site distance:  200.0
+BS elevation:  10.0
+Minimum UT elevation:  1.5
+Maximum UT elevation:  1.5
+Probability of a UT to be indoor:  0.8
+Minimum UT velocity:  0.0
+Maximim UT velocity:  0.0
+Average SIR in dB: 1.11
